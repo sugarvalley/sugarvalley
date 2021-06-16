@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cvkierkowa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cvkierkowa" height="30" width="40" /></a></p>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cQr#1584" height="30" width="40" /> **cQr#1584**
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cQr#1584" height="30" width="40" /> cQr#1584
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sugarvalley&show_icons=true&locale=en&layout=compact" alt="sugarvalley" /></p>
 
