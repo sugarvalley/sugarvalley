@@ -5,11 +5,10 @@
 
 - 🌱 I’m currently learning **javascript, sass, react and redux**
 
-- 📫 How to reach me via <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cQr#1584" height="30" width="40" /> **cQr#1584**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cvkierkowa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cvkierkowa" height="30" width="40" /></a>
+<a href="https://twitter.com/cvkierkowa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cvkierkowa" height="30" width="40" /></a><br />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cQr#1584" height="30" width="40" /> **cQr#1584**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
